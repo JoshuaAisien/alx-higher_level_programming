@@ -1,0 +1,6 @@
+# ignore main test files
+*-main\.py
+#ignore compiled python files
+*.pyc
+#ignore all .swp files
+*.swp
